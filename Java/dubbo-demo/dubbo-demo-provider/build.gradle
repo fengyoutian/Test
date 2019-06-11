@@ -1,0 +1,22 @@
+plugins {
+    id 'java'
+}
+
+group 'com.holy'
+version '1.0-SNAPSHOT'
+
+//sourceCompatibility = 1.8
+//targetCompatibility = 1.8
+//
+//repositories {
+//    maven { url 'https://maven.aliyun.com/repository/public/' }
+//    mavenLocal()
+//    mavenCentral()
+//}
+//
+//dependencies {
+//    testCompile group: 'junit', name: 'junit', version: '4.12'
+//
+//    compile group: 'org.springframework', name: 'spring-context', version: '5.1.7.RELEASE'
+//    compile group: 'org.apache.dubbo', name: 'dubbo', version: '2.7.2'
+//}
